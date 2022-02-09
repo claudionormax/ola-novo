@@ -1,2 +1,2 @@
-# ola novo
- primeiro repositorio versionado curso de git
+# olá novo
+ primeiro repósitorio versionado curso de git
